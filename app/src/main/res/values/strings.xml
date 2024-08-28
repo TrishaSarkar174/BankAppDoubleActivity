@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Agrani Bank</string>
+    <string name="title">Agrani Bank</string>
+    <string name="button_text">Find Accounts</string>
+    <string-array name="account_list">
+        <item>Current Account</item>
+        <item>Savings Account</item>
+        <item>Fix Deposit Account</item>
+        <item>Salary Account</item>
+    </string-array>
+    <string name="default_text">Nothing to Show</string>
+
+</resources>
